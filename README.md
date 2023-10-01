@@ -7,5 +7,8 @@
  <li><h4>Covid 19 on Developed or Developing Countries Webscraping Project:</h4><p> In this project, I have conducted webscraping methods to create my own dataset to see the effects of being a developed country and a developing country compared to one another. You will see in this project how I cleaned and extrapolated my own dataset to come up with insights on these statistics.</p></li>
 </ol>
 <h2></h2>
+
 <p>Feel free to look into any of my projects (even future projects) that may pique your interest in the field of Supply Chain combined with Data Analytics / Science.</p><br>
 <p>Thank you for your time in going through my profile!</p>
+<h4>Note:</h4>
+<p>I am currently in the process of revamping my prior analysis and planning to add more in the future. There will be several changes along the way but you can inspect a few of my analysis in the Personal Projects repository. My first revamped projected would be the Super Store Analysis pinned in the profile.</p>
