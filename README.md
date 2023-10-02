@@ -2,9 +2,8 @@
  I have a Bachelors Degree in Industrial Engineering and a Masters Degree in Supply Chain thus the reason why I want to focus in these areas. My goal for this repository is to display my growing skills and my thought process throughout these various areas and projects</p></div>
 <h2>List of Projects:</h2>
 <ol>
-<li><h4>Super Store Sales Analysis:</h4><p>In this project, you will be able to see how I explored the dataset to find trends, and consumer behavior. I have also dug deeper to find possible issues and problems that the supermarket is experiencing that may need further attention. </p></li>
- <li><h4>Dairy Sales Analysis:</h4><p>In this project, I have analyzed the overall trend of dairy sales and product popularity.  I have also created a Machine Learning program to forecast the sales of dairy for the next 20 days.</p></li>
- <li><h4>Covid 19 on Developed or Developing Countries Webscraping Project:</h4><p> In this project, I have conducted webscraping methods to create my own dataset to see the effects of being a developed country and a developing country compared to one another. You will see in this project how I cleaned and extrapolated my own dataset to come up with insights on these statistics.</p></li>
+<li><h4><a href="https://github.com/ibpinto3098/SuperStore-Sales-Analysis">Super Store Sales Analysis</a>:</h4><p>In this project, you will be able to see how I explored the dataset to find trends, and consumer behavior. I have also dug deeper to find possible issues and problems that the supermarket is experiencing that may need further attention. </p></li>
+<li><h4><a href="https://github.com/ibpinto3098/COVID19-and-HDI-Project">Covid 19 and HDI Webscraping Project</a>:</h4><p> In this project, I have conducted webscraping methods to create my own dataset to see the effects of being a developed country and a developing country compared to one another. You will see in this project how I cleaned and extrapolated my own dataset to come up with insights on these statistics.</p></li>
 </ol>
 <h2></h2>
 
