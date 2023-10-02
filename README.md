@@ -9,5 +9,3 @@
 
 <p>Feel free to look into any of my projects (even future projects) that may pique your interest in the field of Supply Chain combined with Data Analytics / Science.</p><br>
 <p>Thank you for your time in going through my profile!</p>
-<h4>Note:</h4>
-<p>I am currently in the process of revamping my prior analysis and planning to add more in the future. There will be several changes along the way but you can inspect a few of my analysis in the Personal Projects repository. My first revamped projected would be the Super Store Analysis pinned in the profile.</p>
